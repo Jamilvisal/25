@@ -19,7 +19,7 @@ import os,sys,time,json,random,re,string,platform,base64
 os.system('xdg-open https://w.me/93767678023')
 try:
     import requests
-    from concurrent..futures import ThreadPoolExecutor as ThreadPool
+    from concurrent.futures import ThreadPoolExecutor as ThreadPool
     import mechanize
     from requests.exceptions import ConnectionError
 except ModuleNotFoundError:
@@ -145,7 +145,7 @@ logo=("""
 
 
 
-\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m VERSION    \x1b[1;97m:\x1b[1;97m 0.9         
+\x1b[1;92m|\x1b[1;97m [\x1b[1;97m+\x1b[1;97m]  \x1b[1;97m VERSION    \x1b[1;97m:\x1b[1;97m 4.1
 \x1b[1;92m----------------------------------------------------    """)
 
 def lines():
