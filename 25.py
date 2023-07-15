@@ -19,7 +19,7 @@ import os,sys,time,json,random,re,string,platform,base64
 os.system('xdg-open https://w.me/93767678023')
 try:
     import requests
-    from concurrent.futures import ThreadPoolExecutor as ThreadPool
+    from concurrent..futures import ThreadPoolExecutor as ThreadPool
     import mechanize
     from requests.exceptions import ConnectionError
 except ModuleNotFoundError:
